@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando ReactJS 
 - 😄 Pronouns: ele/dele
+- 👍 English speaker
 
 
 <div>
