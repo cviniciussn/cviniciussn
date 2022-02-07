@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Carlos Vinícius
 
-- 🔭 Hoje trabalho com front-end e estudo Sistemas de Informações pela Universidade Federal da Bahia
-- 🌱 Estudando ReactJS através do bootcamp da Labenu
-- 😄 Pronomes: ele/dele
+- 🔭 Front-end developer and Systems Information student at Federal University of Bahia
+- 🌱 Studying Ruby on rails, React, Js and TS
+- 😄 Pronouns: his/him
 - 👍 English speaker
 
 
