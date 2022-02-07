@@ -1,10 +1,10 @@
-## Olá! Meu nome é Carlos Vinícius
+## Howdy! I'm Carlos Vinicius
 
 - 🔭 Front-end developer and Systems Information student at Federal University of Bahia
 - 🌱 Studying Ruby on rails, React, Js and TS
 - 😄 Pronouns: his/him
 - 👍 English speaker
-
+- 📖 Self taught
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cviniciussn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
