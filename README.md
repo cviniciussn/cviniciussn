@@ -1,6 +1,6 @@
 ## Howdy! I'm Carlos Vinicius
 
-- 🔭 Front-end developer and Systems Information student at Federal University of Bahia
+- 🔭 Front-end developer and Systems of Information student at Federal University of Bahia
 - 🌱 Studying Ruby on rails, React, Js and TS
 - 😄 Pronouns: his/him
 - 👍 English speaker
