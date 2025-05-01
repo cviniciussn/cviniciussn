@@ -4,7 +4,7 @@
 🌱 Studying Ruby on rails & JS
 😄 Pronouns: his/him
 👍 English/Portuguese speaker
-📖 Self taught  
+📖 Self taught
   
 <!-- <div>
     
