@@ -1,8 +1,10 @@
 ## Front-end Software Engineer
 
-Front-end developer and Systems of Information student at Federal University of Bahia
-  
-  ##
+🔭 Front-end developer and Systems of Information student at Federal University of Bahia
+🌱 Studying Ruby on rails & JS
+😄 Pronouns: his/him
+👍 English/Portuguese speaker
+📖 Self taught  
   
 <!-- <div>
     
