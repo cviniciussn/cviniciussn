@@ -12,7 +12,7 @@ Everything else is secondary — but here's what I do when they're asleep:
 
 🌍 Fluent in English and Portuguese — and in arguing about tabs vs. spaces.
 
-📖 Self-taught, and proud of it.
+📖 Self-taught — and that curiosity never stopped.
   
 
   <a href="https://www.linkedin.com/in/cviniciussn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
