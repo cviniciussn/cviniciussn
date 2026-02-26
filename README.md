@@ -1,19 +1,18 @@
-## Front-end Software Engineer
+## Full-Stack Software Engineer
 
-Husband of the prettiest woman in the world;
-Dad of the prettiest baby on earth;
+Husband to the prettiest woman in the world. Dad to the prettiest baby on earth.
 
-Besides it:
+Everything else is secondary — but here's what I do when they're asleep:
 
-🔭 Software Engineer focused on Ruby, JS, TS, Rails and React. Front-End is my 'native language'.
+🔭 Full-stack engineer with a front-end heart — Ruby, Rails, JavaScript, TypeScript, and React are my daily tools.
 
-🌱 Always studying
+🌱 Perpetual learner. Always in the middle of something new.
 
-😄 Learning to say "it depends" when it comes to Design Systems
+😄 Still mastering the art of saying "it depends" when someone asks about Design Systems.
 
-👍 English/Portuguese speaker
+🌍 Fluent in English and Portuguese — and in arguing about tabs vs. spaces.
 
-📖 Self taught
+📖 Self-taught, and proud of it.
   
 
   <a href="https://www.linkedin.com/in/cviniciussn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
